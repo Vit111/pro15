@@ -1,0 +1,24 @@
+.inner {
+    background-color: bisque;
+}
+
+.text{
+    background-color:skyblue;
+}
+
+.list{
+    list-style: none;
+    border: 1px solid blue;
+    color: black;
+    margin: 10px;
+}
+
+.random{
+    list-style: none;
+    border: 1px solid green;
+    color: black;
+    margin: 10px;
+}
+.error {
+    background: red;
+  }
